@@ -52,18 +52,7 @@ def main():
         f"saatiin {mehua.ota_varastosta(-32.9)}\n"
         f"Mehuvarasto: {mehua}"
         )
-    print("Tässä virhe pylint-testiin ")
-    print("Tässä virhe pylint-testiin ")
-    print("Tässä virhe pylint-testiin ")
-    print("Tässä virhe pylint-testiin ")
-    print("Tässä virhe pylint-testiin ")
-    print("Tässä virhe pylint-testiin ")
-    print("Tässä virhe pylint-testiin ")
-    print("Tässä virhe pylint-testiin ")
-    print("Tässä virhe pylint-testiin ")
-    print("Tässä virhe pylint-testiin ")
-    print("Tässä virhe pylint-testiin ")
-    print("Tässä virhe pylint-testiin ")
+
 
 if __name__ == "__main__":
     main()
